@@ -1,3 +1,5 @@
-{url, ""}.
-{token, ""}.
-{project, ""}.
+{url, "jenkinsurl"}.
+{token, "jenkins auth token"}.
+{auth, "user:secret jenkins job"}.
+{gitlab, "gitlaburl", "gitlanauthtoken"}.
+{project, "project name in gitlab", "jenkins job name", "parameter in jenkins job server name", "remove branch job name"}.
